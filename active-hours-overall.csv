@@ -1,0 +1,204 @@
+,year,month,time_period,total
+0,2012,May,afternoon,2
+1,2012,May,late evening - midnight,1
+2,2012,May,morning,1
+3,2012,Jun,afternoon,50
+4,2012,Jun,early morning,32
+5,2012,Jun,evening,40
+6,2012,Jun,late evening - midnight,40
+7,2012,Jun,late morning,50
+8,2012,Jun,midday-noon,59
+9,2012,Jun,middle of night,48
+10,2012,Jun,morning,37
+11,2012,Jul,afternoon,74
+12,2012,Jul,early morning,61
+13,2012,Jul,evening,75
+14,2012,Jul,late evening - midnight,68
+15,2012,Jul,late morning,76
+16,2012,Jul,midday-noon,67
+17,2012,Jul,middle of night,82
+18,2012,Jul,morning,47
+19,2012,Aug,afternoon,108
+20,2012,Aug,early morning,68
+21,2012,Aug,evening,113
+22,2012,Aug,late evening - midnight,81
+23,2012,Aug,late morning,97
+24,2012,Aug,midday-noon,96
+25,2012,Aug,middle of night,78
+26,2012,Aug,morning,80
+27,2012,Sep,afternoon,120
+28,2012,Sep,early morning,92
+29,2012,Sep,evening,143
+30,2012,Sep,late evening - midnight,127
+31,2012,Sep,late morning,137
+32,2012,Sep,midday-noon,118
+33,2012,Sep,middle of night,114
+34,2012,Sep,morning,126
+35,2012,Oct,afternoon,154
+36,2012,Oct,early morning,131
+37,2012,Oct,evening,198
+38,2012,Oct,late evening - midnight,134
+39,2012,Oct,late morning,170
+40,2012,Oct,midday-noon,154
+41,2012,Oct,middle of night,142
+42,2012,Oct,morning,165
+43,2012,Nov,afternoon,184
+44,2012,Nov,early morning,146
+45,2012,Nov,evening,210
+46,2012,Nov,late evening - midnight,140
+47,2012,Nov,late morning,190
+48,2012,Nov,midday-noon,160
+49,2012,Nov,middle of night,162
+50,2012,Nov,morning,191
+51,2012,Dec,afternoon,234
+52,2012,Dec,early morning,198
+53,2012,Dec,evening,264
+54,2012,Dec,late evening - midnight,204
+55,2012,Dec,late morning,213
+56,2012,Dec,midday-noon,199
+57,2012,Dec,middle of night,190
+58,2012,Dec,morning,229
+59,2013,Jan,afternoon,258
+60,2013,Jan,early morning,210
+61,2013,Jan,evening,305
+62,2013,Jan,late evening - midnight,253
+63,2013,Jan,late morning,239
+64,2013,Jan,midday-noon,213
+65,2013,Jan,middle of night,225
+66,2013,Jan,morning,244
+67,2013,Feb,afternoon,280
+68,2013,Feb,early morning,238
+69,2013,Feb,evening,310
+70,2013,Feb,late evening - midnight,252
+71,2013,Feb,late morning,233
+72,2013,Feb,midday-noon,209
+73,2013,Feb,middle of night,237
+74,2013,Feb,morning,249
+75,2013,Mar,afternoon,354
+76,2013,Mar,early morning,324
+77,2013,Mar,evening,366
+78,2013,Mar,late evening - midnight,296
+79,2013,Mar,late morning,265
+80,2013,Mar,midday-noon,264
+81,2013,Mar,middle of night,305
+82,2013,Mar,morning,316
+83,2013,Apr,afternoon,346
+84,2013,Apr,early morning,327
+85,2013,Apr,evening,362
+86,2013,Apr,late evening - midnight,320
+87,2013,Apr,late morning,301
+88,2013,Apr,midday-noon,280
+89,2013,Apr,middle of night,309
+90,2013,Apr,morning,317
+91,2013,May,afternoon,398
+92,2013,May,early morning,354
+93,2013,May,evening,402
+94,2013,May,late evening - midnight,365
+95,2013,May,late morning,347
+96,2013,May,midday-noon,351
+97,2013,May,middle of night,340
+98,2013,May,morning,315
+99,2013,Jun,afternoon,403
+100,2013,Jun,early morning,420
+101,2013,Jun,evening,416
+102,2013,Jun,late evening - midnight,385
+103,2013,Jun,late morning,379
+104,2013,Jun,midday-noon,388
+105,2013,Jun,middle of night,397
+106,2013,Jun,morning,326
+107,2013,Jul,afternoon,418
+108,2013,Jul,early morning,452
+109,2013,Jul,evening,456
+110,2013,Jul,late evening - midnight,401
+111,2013,Jul,late morning,395
+112,2013,Jul,midday-noon,438
+113,2013,Jul,middle of night,409
+114,2013,Jul,morning,376
+115,2013,Aug,afternoon,438
+116,2013,Aug,early morning,489
+117,2013,Aug,evening,465
+118,2013,Aug,late evening - midnight,452
+119,2013,Aug,late morning,445
+120,2013,Aug,midday-noon,446
+121,2013,Aug,middle of night,419
+122,2013,Aug,morning,396
+123,2013,Sep,afternoon,476
+124,2013,Sep,early morning,504
+125,2013,Sep,evening,491
+126,2013,Sep,late evening - midnight,497
+127,2013,Sep,late morning,453
+128,2013,Sep,midday-noon,455
+129,2013,Sep,middle of night,420
+130,2013,Sep,morning,447
+131,2013,Oct,afternoon,499
+132,2013,Oct,early morning,574
+133,2013,Oct,evening,564
+134,2013,Oct,late evening - midnight,559
+135,2013,Oct,late morning,491
+136,2013,Oct,midday-noon,509
+137,2013,Oct,middle of night,484
+138,2013,Oct,morning,484
+139,2013,Nov,afternoon,537
+140,2013,Nov,early morning,564
+141,2013,Nov,evening,585
+142,2013,Nov,late evening - midnight,581
+143,2013,Nov,late morning,520
+144,2013,Nov,midday-noon,516
+145,2013,Nov,middle of night,473
+146,2013,Nov,morning,501
+147,2013,Dec,afternoon,584
+148,2013,Dec,early morning,644
+149,2013,Dec,evening,617
+150,2013,Dec,late evening - midnight,652
+151,2013,Dec,late morning,544
+152,2013,Dec,midday-noon,576
+153,2013,Dec,middle of night,524
+154,2013,Dec,morning,557
+155,2014,Jan,afternoon,637
+156,2014,Jan,early morning,728
+157,2014,Jan,evening,638
+158,2014,Jan,late evening - midnight,688
+159,2014,Jan,late morning,614
+160,2014,Jan,midday-noon,628
+161,2014,Jan,middle of night,541
+162,2014,Jan,morning,615
+163,2014,Feb,afternoon,607
+164,2014,Feb,early morning,705
+165,2014,Feb,evening,614
+166,2014,Feb,late evening - midnight,683
+167,2014,Feb,late morning,612
+168,2014,Feb,midday-noon,620
+169,2014,Feb,middle of night,533
+170,2014,Feb,morning,618
+171,2014,Mar,afternoon,759
+172,2014,Mar,early morning,879
+173,2014,Mar,evening,747
+174,2014,Mar,late evening - midnight,850
+175,2014,Mar,late morning,730
+176,2014,Mar,midday-noon,769
+177,2014,Mar,middle of night,667
+178,2014,Mar,morning,748
+179,2014,Apr,afternoon,794
+180,2014,Apr,early morning,880
+181,2014,Apr,evening,743
+182,2014,Apr,late evening - midnight,814
+183,2014,Apr,late morning,698
+184,2014,Apr,midday-noon,766
+185,2014,Apr,middle of night,644
+186,2014,Apr,morning,760
+187,2014,May,afternoon,791
+188,2014,May,early morning,912
+189,2014,May,evening,775
+190,2014,May,late evening - midnight,882
+191,2014,May,late morning,757
+192,2014,May,midday-noon,805
+193,2014,May,middle of night,693
+194,2014,May,morning,790
+195,2014,Jun,afternoon,77
+196,2014,Jun,early morning,100
+197,2014,Jun,evening,74
+198,2014,Jun,late evening - midnight,99
+199,2014,Jun,late morning,97
+200,2014,Jun,midday-noon,87
+201,2014,Jun,middle of night,81
+202,2014,Jun,morning,93
