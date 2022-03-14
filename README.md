@@ -1,5 +1,6 @@
 # TakeHome-Users-Engagement-Analysis
 
+
 ### The original dataset:
 - Assignment_3.pdf, the problem statement.
 - The Take home users dataset(takehome_users.csv) contains Users' details i.e. unique user ID, name, email ID, sign up date and time, sign up source, working organization ID, referral ID, and other details.
@@ -17,3 +18,11 @@ Report link: https://analysis-report-app.herokuapp.com/
 User name: ashru
 Password: guvi
 ```
+
+------
+
+>This assingment is a part of GUVI Data Science Bootcamp lessions.
+GUVI has wide range of IT courses in Indian regional languages as well as in English. GUVI offers free courses as well as paid premium courses, live classes, bootcamps, etc.
+For more information check at https://www.guvi.in/referral/l/g62xr
+
+
